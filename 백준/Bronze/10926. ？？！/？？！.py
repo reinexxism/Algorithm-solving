@@ -1,1 +1,2 @@
-print(input()+"??!")
+id = input()
+print("{}??!".format(id))

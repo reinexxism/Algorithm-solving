@@ -1,11 +1,10 @@
-a = int(input());
-b = int(input());
-
-if a > 0 and b > 0 :
-  print(1);
-elif a > 0 and b < 0 :
-  print(4);
-elif a < 0 and b > 0 :
-  print(2);
-else : 
-  print(3);
+x = int(input())
+y = int(input())
+if (x > 0) and (y > 0) : 
+  print(1)
+elif (x < 0) and (y > 0) :
+  print(2)
+elif (x < 0) and (y < 0) :
+  print(3)
+elif (x > 0) and (y < 0) :
+  print(4)

@@ -1,2 +1,2 @@
-A,B = input().split()
-print(int(A)*int(B))
+e, f = map(int, input().split())
+print(e * f)

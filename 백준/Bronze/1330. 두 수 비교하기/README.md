@@ -1,14 +1,14 @@
-# [Bronze IV] 두 수 비교하기 - 1330 
+# [Bronze V] 두 수 비교하기 - 1330 
 
 [문제 링크](https://www.acmicpc.net/problem/1330) 
 
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 72 ms
+메모리: 30840 KB, 시간: 68 ms
 
 ### 분류
 
-사칙연산(arithmetic), 구현(implementation), 수학(math)
+구현(implementation)
 
 ### 문제 설명
 
